@@ -18,7 +18,7 @@
   <img src="main.png" width="800"/>
 </p>
 <p align="center">
-  <img src="flow1.png" width="800"/>
+  <img src="flow1.jpg" width="800"/>
 </p>
 
 ---
